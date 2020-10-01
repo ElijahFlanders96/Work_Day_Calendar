@@ -33,6 +33,7 @@ body {
   .row {
     white-space: pre-wrap;
     height: 80px;
+    
     border-top: 1px solid white;;
   }
   
@@ -70,3 +71,6 @@ body {
     transition: all .3s ease-in-out;
   }
   
+  .myInput {
+    width: 80%;
+  }
